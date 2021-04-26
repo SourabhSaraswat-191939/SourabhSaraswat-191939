@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 Myself Sourabh Saraswat . I am pursuing my undergraduation in Computer Science and Engineering from Central University Of Haryana . 
-I love to know about technologies and pretty much excited to learn new things of modern technical world .MY greatest strength is my positive attitude , even during the most hardest of times.
+I love to know about technologies and pretty much excited to learn new things of modern technical world .My greatest strength is my positive attitude , even during the most hardest of times.
 I’m constantly Practicing New Technologies .
 
 - 🔭 I’m currently working on Open Source Projects
