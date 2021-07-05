@@ -7,7 +7,6 @@
 
 Here are some ideas to get you started:
 -->
-<hr />
 
 ## I am Sourabh Saraswat, an Aspiring Software Engineer and a 3rd year undergrad at Central University Of Haryana . 
 I love to know about technologies and pretty much excited to learn new things of modern technical world .My greatest strength is my positive attitude , even during the most hardest of times.
