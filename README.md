@@ -5,7 +5,7 @@
 <!--
 **SourabhSaraswat-191939/SourabhSaraswat-191939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ are some ideas to get you started:
 -->
 
 ## I am Sourabh Saraswat, an Aspiring Software Engineer and a 3rd year undergrad at Central University Of Haryana . 
